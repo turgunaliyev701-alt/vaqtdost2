@@ -1,0 +1,8 @@
+name = "vaqtdost"
+compatibility_date = "2026-11-01"
+pages_build_output_dir = "./public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vaqtdost"
+database_id = "bbf8a97e-3ddb-46ac-9650-5a4c1973ad34"
